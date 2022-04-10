@@ -8,6 +8,12 @@
     font-family: 'Poppins', sans-serif;
     
 }
+body{
+  
+  background-image: url(images/plane3.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 .header h1{
     background-color: #1C2026;
     color: white;
@@ -20,7 +26,10 @@
     box-sizing: border-box;
     width: 100%;
 }
+.container,.grid-container,.grid-container2,.grid-item{
+  opacity: 95%;
 
+}
 .container{
     color: white;
     margin-top: 40px;
