@@ -12,7 +12,7 @@ body{
   
   background-image: url(images/plane3.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
 .header h1{
     background-color: #1C2026;
